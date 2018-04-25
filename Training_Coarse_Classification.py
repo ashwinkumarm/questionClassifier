@@ -238,7 +238,7 @@ X_test=hstack((X_test,X_Chunk))
 
 ###################Applying the LinearSVC Classifier#########################
 
-naiveBayes.naiveBayes(X_train, train_class, X_test)
+naiveBayes.naiveBayes(X_train, train_class, X_test, test_class_gold)
 
 # print "Applying SVC"
 # self = LinearSVC(loss='l2', dual=False, tol=1e-3)
