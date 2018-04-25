@@ -244,8 +244,8 @@ naiveBayes.naiveBayes(X_train, train_class, X_test, test_class_gold)
 # self = LinearSVC(loss='l2', dual=False, tol=1e-3)
 # self = LinearSVC.fit(self, X_train, train_class)
 # test_class = LinearSVC.predict(self, X_test)
-# 
-# #####Calculating success rate#####
+ 
+#####Calculating success rate#####
 # hits=0.00
 # fi=open(read_property('coarse_classification_path'),"w")
 # for i in range(0,len(test_class)):
@@ -254,7 +254,7 @@ naiveBayes.naiveBayes(X_train, train_class, X_test, test_class_gold)
 #     fi.write(test_class[i]+" : ")
 #     fi.write(corpus_test[i]+"\n")
 # fi.close()
-# 
+#  
 # for i in range(0,len(test_class)):
 #     if test_class[i]==test_class_gold[i]:
 #         hits=hits+1

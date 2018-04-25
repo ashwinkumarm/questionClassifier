@@ -108,9 +108,9 @@ NUM : The sun s core what is the temperature ?
 ENTY : What is the Ohio state bird ? 
 NUM : When were William Shakespeare s twins born ? 
 LOC : What is the highest dam in the US ? 
-DESC : What color is a poison arrow frog ? 
+ENTY : What color is a poison arrow frog ? 
 DESC : What is acupuncture ? 
-NUM : What is the length of the coastline of the state of Alaska ? 
+LOC : What is the length of the coastline of the state of Alaska ? 
 HUM : What is the name of Neil Armstrong s wife ? 
 LOC : What is Hawaii s state flower ? 
 HUM : Who won Ms American in 1989 ? 
@@ -444,7 +444,7 @@ LOC : Which country has the most water pollution ?
 ENTY : What is the scientific name for elephant ? 
 HUM : Who is the actress known for her role in the movie Gypsy ? 
 ENTY : What breed of hunting dog did the Beverly Hillbillies own ? 
-LOC : What is the rainiest place on Earth ? 
+DESC : What is the rainiest place on Earth ? 
 HUM : Who was the first African American to win the Nobel Prize in literature ? 
 NUM : When is St Patrick s Day ? 
 ENTY : What was FDR s dog s name ? 
