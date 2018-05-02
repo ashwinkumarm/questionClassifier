@@ -1,6 +1,6 @@
-### QUestion Classifier
+###QUestion Classifier
 
-## The program finds the accuracy for coarse and fine classifier for TREC data set. We find accuracy
+##The program finds the accuracy for coarse and fine classifier for TREC data set. We find accuracy
 for single prediction and multiple classes where classes are less than 5. 
 
 Each program takes several hours to run. So we saved everything in files. 
